@@ -40,8 +40,8 @@ public class Minesweeper {
         int nextMove;
 
         updateDanger();
-         System.out.println();
-         displayFieldActual();
+        System.out.println();
+        //displayFieldActual();
 
         //main game loop
         while(!gameOver){
